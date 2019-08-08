@@ -48,6 +48,7 @@ public class Informacion_artista extends AppCompatActivity {
            edt_o.setText(datos_artista[po][1]);
            edt_p.setText(datos_artista[po][2]);
            edt_u.setText(datos_artista[po][3]);
+
         }
     }
 
